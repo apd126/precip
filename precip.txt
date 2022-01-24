@@ -1,2 +1,4 @@
 Precipiation comes in many forms
 Rain: liquid drops falling from the sky
+Freezing Rain: Supercooling rain drops that freeze on contact
+
