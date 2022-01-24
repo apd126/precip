@@ -2,4 +2,3 @@ Precipiation comes in many forms
 Rain: liquid drops falling from the sky
 Freezing Rain: Supercooling rain drops that freeze on contact
 Sleet: Ice from melted snow that refroze
-Snow: Frozen carbon dioxide
